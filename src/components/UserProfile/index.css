@@ -1,0 +1,46 @@
+.cont {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    align-items: center;
+    background-color: rgb(117, 110, 110);
+    margin-left: -33px;
+    padding: 30px;
+    border-radius: 5px;
+    border-bottom: 5px rgb(20, 20, 19) solid;
+  }
+  
+  .cont-1 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .imageSet {
+    height: 50px;
+    width: 50px;
+    border-radius: 22px;
+    border: 2px solid black;
+  }
+  
+  .para {
+    color: yellow;
+    margin-top: -20px;
+    text-align: start;
+  }
+  
+  .head {
+    text-align: start;
+  }
+  
+  .button {
+    background-color: rgb(117, 110, 110);
+    padding: 5px;
+    width: 80px;
+    box-shadow: 0px 5px 5px 0px black;
+    color: white;
+  }
+  .sd {
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  
